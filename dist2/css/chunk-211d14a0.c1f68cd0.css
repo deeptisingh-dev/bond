@@ -1,0 +1,1 @@
+.tab-content{display:flex}.tab-content .tab-pane{display:block;-webkit-animation:fadeIn .5s;animation:fadeIn .5s;width:100%}.wizard-navigation .nav-link.active,.wizard-navigation .nav-link.checked{cursor:pointer}.disabled-wizard-link{cursor:not-allowed}
